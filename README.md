@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Bala's github stats](https://github-stats-alpha.vercel.app/api/?username=Bala1067)
+
 <!--
 **Bala1067/Bala1067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
