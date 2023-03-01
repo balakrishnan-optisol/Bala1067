@@ -9,7 +9,7 @@ Thank you for your interest in my profile
 - 🔭 I’m Full Stack Developer.
 - 🌱 I’m currently learning Docker and GraphQL
 - 💬 Ask me about anything.
-- 📫 How to reach me: krish.pb.krish@gmail.com
+- 📫 How to reach me: balakrishnan.p@optisolbusiness.com
 
 ### Skills 👨‍💻
 
